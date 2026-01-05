@@ -42,9 +42,9 @@ Forecast Apple stock prices using historical data with a time series model.
 - PRoject  DATASET.csv → Dataset
   
 🔟 Achievements
-✅ End-to-end forecasting pipeline
-✅ SARIMA statistical modeling
-✅ Real-time Streamlit app
-✅ Successful cloud deployment
+- End-to-end forecasting pipeline
+- SARIMA statistical modeling
+- Real-time Streamlit app
+- Successful cloud deployment
 
 
