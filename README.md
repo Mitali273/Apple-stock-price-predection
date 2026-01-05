@@ -2,16 +2,20 @@
 📈 Apple Stock Price Prediction
 
 1️⃣ Problem Statement
-Forecast Apple stock prices using historical data with a time series model.
+Forecast Apple stock prices using historical data with a time series model.<br>
+
 2️⃣ Dataset
 - File:  projectDATASET.csv
 - Columns: Date, Open, High, Low, Close, Volume
+  
 3️⃣ EDA
 - Converted Date to datetime & sorted
 - Check for null and missing value 
 - Visualized closing prices for trends & seasonality
+
 4️⃣ Model Choice
 - SARIMA selected for capturing trend + seasonal patterns in financial time series.
+  
 5️⃣ Preprocessing
 - Removed missing values
 - Removed outliers 
